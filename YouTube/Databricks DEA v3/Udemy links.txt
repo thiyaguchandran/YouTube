@@ -1,0 +1,4 @@
+https://www.udemy.com/course/databricks-certified-data-engineer-associate/ - Derar Alhussein
+https://www.udemy.com/course/databricks-data-engineer-associate/ - Ankit Mistry, Vijay Gadhave
+https://www.udemy.com/course/databricks-certified-data-engineer-associate-practice-tests/ - Akhil R
+https://github.com/Amrit-Hub/Databricks-Certified-Data-Engineer-Associate-Questions
