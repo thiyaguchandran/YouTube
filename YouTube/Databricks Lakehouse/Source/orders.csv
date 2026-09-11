@@ -1,0 +1,42 @@
+order_id,order_date,customer_name,product,category,quantity,price
+1001,2026-09-01,Ravi,Laptop,Electronics,1,800
+1002,2026-09-01,John,Mouse,Electronics,2,25
+1003,2026-09-01,Priya,Shoes,Fashion,1,60
+1004,2026-09-01,David,Keyboard,Electronics,1,45
+1005,2026-09-01,Anitha,T-Shirt,Fashion,3,20
+1006,2026-09-01,Robert,Headphones,Electronics,1,75
+1007,2026-09-01,Suresh,Jeans,Fashion,2,40
+1008,2026-09-01,Emily,Coffee Maker,Home,1,90
+1009,2026-09-01,Arun,Monitor,Electronics,1,250
+1010,2026-09-01,Sarah,Backpack,Fashion,1,35
+1011,2026-09-02,Ravi,Keyboard,Electronics,2,45
+1012,2026-09-02,John,Laptop,Electronics,1,800
+1013,2026-09-02,Priya,T-Shirt,Fashion,2,20
+1014,2026-09-02,David,Shoes,Fashion,1,60
+1015,2026-09-02,Anitha,Blender,Home,1,70
+1016,2026-09-02,Robert,Mouse,Electronics,3,25
+1017,2026-09-02,Suresh,Headphones,Electronics,2,75
+1018,2026-09-02,Emily,Jeans,Fashion,1,40
+1019,2026-09-02,Arun,Coffee Maker,Home,1,90
+1020,2026-09-02,Sarah,Monitor,Electronics,1,250
+1021,2026-09-03,Ravi,Phone,Electronics,1,650
+1022,2026-09-03,John,Shoes,Fashion,2,60
+1023,2026-09-03,Priya,Laptop,Electronics,1,800
+1024,2026-09-03,David,T-Shirt,Fashion,4,20
+1025,2026-09-03,Anitha,Keyboard,Electronics,1,45
+1026,2026-09-03,Robert,Backpack,Fashion,2,35
+1027,2026-09-03,Suresh,Blender,Home,1,70
+1028,2026-09-03,Emily,Mouse,Electronics,2,25
+1029,2026-09-03,Arun,Headphones,Electronics,1,75
+1030,2026-09-03,Sarah,Coffee Maker,Home,2,90
+1031,2026-09-04,Ravi,Monitor,Electronics,2,250
+1032,2026-09-04,John,Jeans,Fashion,1,40
+1033,2026-09-04,Priya,Phone,Electronics,1,650
+1034,2026-09-04,David,Shoes,Fashion,1,60
+1035,2026-09-04,Anitha,Laptop,Electronics,1,800
+1036,2026-09-04,Robert,T-Shirt,Fashion,2,20
+1037,2026-09-04,Suresh,Mouse,Electronics,4,25
+1038,2026-09-04,Emily,Blender,Home,1,70
+1039,2026-09-04,Arun,Keyboard,Electronics,2,45
+1040,2026-09-04,Sarah,Backpack,Fashion,1,35
+1041,2026-09-04,Test User,Mouse,Electronics,-2,25
