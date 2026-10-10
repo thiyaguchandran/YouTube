@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,product,category,quantity,price
+2001,2026-09-05,Ravi,Laptop,Electronics,1,800
+2002,2026-09-05,John,Mouse,Electronics,1,25
+2003,2026-09-05,Priya,Shoes,Fashion,1,60
+2004,2026-09-05,David,Keyboard,Electronics,1,45
+2005,2026-09-05,Anitha,T-Shirt,Fashion,2,20
+2006,2026-09-05,Robert,Headphones,Electronics,1,75
+2007,2026-09-05,Suresh,Jeans,Fashion,1,40
+2008,2026-09-05,Emily,Coffee Maker,Home,1,90
+2009,2026-09-05,Arun,Monitor,Electronics,1,250
+2010,2026-09-05,Sarah,Backpack,Fashion,1,35
